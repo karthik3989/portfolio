@@ -29,3 +29,15 @@ border-radius: 20%;
     display: flex;
     justify-content: center;
 }
+.btn-primary{
+    background-color: #5552FC;
+}
+.btn-primary:active,.btn-primary:hover{
+    background-color: #0502A8;
+}
+.feature-icon{
+    background-color: #5552FC !important;
+}
+.head-nav{
+    background-color: rgb(226, 228, 228);
+}

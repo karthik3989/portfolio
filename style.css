@@ -1,6 +1,6 @@
 .img-fluid{
-    height: 300px;
-    border-radius: 50px;
+    height: 200px;
+    border-radius: 30%;
 }
 .fullpage{
     background-image: linear-gradient(rgb(255, 255, 255),rgb(229, 229, 229),rgb(255, 255, 255));
@@ -40,4 +40,8 @@ border-radius: 20%;
 }
 .head-nav{
     background-color: rgb(226, 228, 228);
+}
+.col2-box{
+    display: flex;
+    gap: 20rem;
 }

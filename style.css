@@ -45,3 +45,6 @@ border-radius: 20%;
     display: flex;
     gap: 20rem;
 }
+#my-works img{
+    border: 1px dotted grey;
+}

@@ -61,3 +61,6 @@ p,h1,h2,h3{
 .feature-col{
     width: 10rem;
 }
+.btn-outline-secondary {
+    color:white;
+}

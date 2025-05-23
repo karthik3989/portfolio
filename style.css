@@ -1,9 +1,10 @@
 .img-fluid{
-    height: 200px;
+    height: 300px;
     border-radius: 30%;
+    border: 5px solid white;
 }
 .fullpage{
-    background-image: linear-gradient(rgb(255, 255, 255),rgb(229, 229, 229),rgb(255, 255, 255));
+    background-color: #11071F;
 }
 .feature-icon{
 padding: 5px;
@@ -22,8 +23,8 @@ border-radius: 20%;
     gap: 2rem;
 }
 * p{
-    font-size: 1rem !important;
-    font-weight: 400 !important;
+    font-size: 1 rem !important;
+    font-weight: 300 !important;
 }
 #contact-me>h3,#contact-me>a{
     display: flex;
@@ -39,7 +40,7 @@ border-radius: 20%;
     background-color: #5552FC !important;
 }
 .head-nav{
-    background-color: rgb(226, 228, 228);
+    background-color: #1A0B2E;
 }
 .col2-box{
     display: flex;
@@ -47,4 +48,16 @@ border-radius: 20%;
 }
 #my-works img{
     border: 1px dotted grey;
+}
+p,h1,h2,h3{
+    color: white; 
+}
+.text-body-emphasis{
+    color: white !important;
+}
+.container{
+    max-width: 60rem;
+}
+.feature-col{
+    width: 10rem;
 }
